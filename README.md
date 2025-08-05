@@ -21,22 +21,16 @@ Uma ferramenta simples e eficiente para realizar testes de estresse em servidore
 - Python 3.9+
 - Bibliotecas:
 
-```bash
 pip install aiohttp ttkbootstrap
-🚀 Como usar
-Clone o repositório:
 
-bash
-Copiar
-Editar
+Clone o repositório:
 git clone https://github.com/seu-usuario/http-stress-tester.git
 cd http-stress-tester
+
 Execute o script principal:
 
-bash
-Copiar
-Editar
 python stress_tester_gui.py
+
 Preencha os campos:
 
 URL de destino
@@ -52,7 +46,8 @@ Número total de requisições
 Clique em "Iniciar Teste" e acompanhe os resultados em tempo real.
 
 🖼️ Interface
-(adicione aqui uma imagem ou gif de demonstração da GUI)
+
+<img width="767" height="968" alt="Captura de tela 2025-08-05 204336" src="https://github.com/user-attachments/assets/8327e401-2397-4b71-864b-4fae34c76ddb" />
 
 ⚠️ Aviso legal
 Esta ferramenta é destinada apenas para testes autorizados. Nunca use este programa para atacar sistemas sem permissão expressa. O uso indevido pode violar leis locais e internacionais.
